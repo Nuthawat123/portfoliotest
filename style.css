@@ -1,0 +1,181 @@
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ header{
+    background-color: rgb(108, 107, 110);
+    text-align: center;
+    padding: 100px 0px;
+    font-size: 40px;
+    color: rgb(241, 186, 2);
+ }
+
+ nav{
+    background-color: rgb(22, 20, 22);
+    padding: 1rem;
+    text-align: center;
+  a{
+    color: aliceblue;
+    font-size: 20px;
+    margin: 20px;
+  }
+ }
+
+ main{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+
+ }
+
+ #h2-1 {
+       
+        padding-top: 20px;
+        
+        font-size: 20px;
+        text-decoration: underline;
+        text-align: center;
+        
+ }
+
+.about {
+    
+    padding: 50px 100px;
+    font-size: 25px;
+    line-height: 2.2rem;
+    
+ }
+
+ .left {
+    width: 50%;
+    height: 1050px;
+    border-right: solid;
+ }
+
+
+
+
+ .right {
+
+        width: 50%;
+        height: 500px;
+     
+ }
+
+ #h2-2{
+
+        padding-top: 20px;
+        text-align: center;
+        font-size: 25px;
+        text-decoration: underline;
+        
+ }
+
+ .img-s{
+    display: flex;
+    padding-left: 120px;
+    padding-top: 30px;
+    
+    
+ 
+ }
+
+ img{
+    margin: 50px;
+ }
+
+ 
+
+ #h3-1{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+
+ }
+
+ .contact{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px
+   
+ }
+
+
+ .ct-1{
+  
+    margin: 20px 10px 10px 10px ;
+ }
+ .ct-2{
+    margin: 10px 60px;
+ }
+ .ct-3{
+    margin-top: 2px;
+    margin-left: 47px;
+    margin-right: 20px;
+ }
+
+
+ .im1 {
+        display: flex;
+       
+       
+ }
+  .im3 {
+    display: flex;
+    margin-right: 0px;
+    padding-right: 0;
+ }
+  .im2 {
+    display: flex;
+ }
+
+ .a1{
+    padding-top: 75px;
+    font-size: 20px;
+ }
+
+.a2{
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+.a3{
+
+padding-top: 75px;
+font-size: 20px;
+}
+
+.ft{
+    font-size: 75px;
+    background-color: rgb(87, 85, 85);
+    height: 150px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 50px;
+    color: aliceblue;
+
+}
+
+.ht1 {
+    font-size: 25px;
+    padding-left: 103px;
+}
+
+.cs1{
+font-size: 25px;
+padding-left: 106px;
+}
+
+.js1{
+font-size: 25px;
+padding-left: 80px;
+}
+
